@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **SQL, Python and earning my Google DA Certificate**
 
-- 📫 How to reach me **https://www.linkedin.com/in/virginia-sims/**
-
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Qj5_IPEsOGWjmWB_hr2u2n3lyMzT_axyLraTXwHpZsM/edit#heading=h.97ff0q270yz](https://docs.google.com/document/d/1Qj5_IPEsOGWjmWB_hr2u2n3lyMzT_axyLraTXwHpZsM/edit#heading=h.97ff0q270yz)
 
 <h3 align="left">Connect with me:</h3>
